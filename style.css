@@ -1,0 +1,48 @@
+/*Centers EVERY element*/
+* {
+  text-align:center; 
+}
+
+/*Input Field*/
+#userInput {
+width:200px;
+height:25px;
+font-size:20px;
+font-family:poiret one;
+}
+
+/*Start Seperation Button*/
+#helloButton {
+position: relative;
+top:10px;
+font-size:25px;
+  font-family:poiret one;
+}
+
+/* Remove Text Button*/
+#helloButton2 {
+position: relative;
+top:18px;
+font-size:25px;
+font-family:poiret one;
+}
+
+/*Field Input Button*/
+#parentId {
+font-size:25px;  
+position:relative;
+top:20px;
+font-family:josefin sans;
+}
+
+/*Seperating Machine <p> tag*/
+#resultField {
+font-size:35px;
+text-decoration:underline;
+position:fixed;
+left:5%;
+top:70%;
+background-color:black;
+color:yellow;
+font-family:poiret one;
+}
